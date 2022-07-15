@@ -2,3 +2,5 @@
 
 
 Resources of our team HCMUS-MATH19 in the competition
+
+Link of the competition: https://aihub.vn/competitions/242
